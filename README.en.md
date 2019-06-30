@@ -21,6 +21,12 @@ git checkout add-timbre-params
 The list of tags are visible in multiple place, including 
 [Releases](https://github.com/iluminar-yi/take-the-earth-to-wander-live-ver-iluminar-cover/releases).
 
+## Tool Versions
+* Synthesizer V Build 017
+* Shian Build 008
+* REAPER v5.978
+
+## Notice
 My work is done on the `.s5p` files and `.RPP` files found in this repository,
 as well as any supporting documents. These materials are licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 whose copy can also be found in [`LICENSE`](/LICENSE). Should any other content infringes the copyright of the respective copyright owner,
