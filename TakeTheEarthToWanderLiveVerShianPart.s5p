@@ -1,0 +1,749 @@
+{
+  "version": 7,
+  "meter": [
+    {
+      "measure": 0,
+      "beatPerMeasure": 4,
+      "beatGranularity": 4
+    }
+  ],
+  "tempo": [
+    {
+      "position": 0,
+      "beatPerMinute": 136
+    }
+  ],
+  "tracks": [
+    {
+      "name": "Kid",
+      "dbName": "五维介质·诗岸",
+      "color": "15e879",
+      "displayOrder": 0,
+      "dbDefaults": {},
+      "notes": [
+        {
+          "onset": 22579200000,
+          "duration": 1411200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 66
+        },
+        {
+          "onset": 23990400000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 66
+        },
+        {
+          "onset": 24696000000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 64
+        },
+        {
+          "onset": 25401600000,
+          "duration": 1764000000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 62
+        },
+        {
+          "onset": 28224000000,
+          "duration": 1411200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 29635200000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 30340800000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 65
+        },
+        {
+          "onset": 31046400000,
+          "duration": 1764000000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 33868800000,
+          "duration": 1411200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 35280000000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 35985600000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 36691200000,
+          "duration": 1411200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 64
+        },
+        {
+          "onset": 38102400000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 64
+        },
+        {
+          "onset": 38808000000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 62
+        },
+        {
+          "onset": 39513600000,
+          "duration": 2469600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 64
+        },
+        {
+          "onset": 42336000000,
+          "duration": 2116800000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 57
+        },
+        {
+          "onset": 45158400000,
+          "duration": 1411200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 66
+        },
+        {
+          "onset": 46569600000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 66
+        },
+        {
+          "onset": 47275200000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 64
+        },
+        {
+          "onset": 47980800000,
+          "duration": 1764000000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 62
+        },
+        {
+          "onset": 50803200000,
+          "duration": 1411200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 72
+        },
+        {
+          "onset": 52214400000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 52920000000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 53625600000,
+          "duration": 1764000000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 56448000000,
+          "duration": 1411200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 57859200000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 58564800000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 65
+        },
+        {
+          "onset": 59270400000,
+          "duration": 1411200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 60681600000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 61387200000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 62092800000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 66
+        },
+        {
+          "onset": 62798400000,
+          "duration": 4233600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 62
+        },
+        {
+          "onset": 256838400000,
+          "duration": 1411200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 66
+        },
+        {
+          "onset": 258249600000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 66
+        },
+        {
+          "onset": 258955200000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 64
+        },
+        {
+          "onset": 259660800000,
+          "duration": 1764000000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 62
+        },
+        {
+          "onset": 262483200000,
+          "duration": 1411200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 263894400000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 264600000000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 65
+        },
+        {
+          "onset": 265305600000,
+          "duration": 1764000000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 268128000000,
+          "duration": 1411200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 269539200000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 270244800000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 270950400000,
+          "duration": 1411200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 64
+        },
+        {
+          "onset": 272361600000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 64
+        },
+        {
+          "onset": 273067200000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 62
+        },
+        {
+          "onset": 273772800000,
+          "duration": 2469600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 64
+        },
+        {
+          "onset": 276595200000,
+          "duration": 2116800000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 57
+        },
+        {
+          "onset": 279417600000,
+          "duration": 1411200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 66
+        },
+        {
+          "onset": 280828800000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 66
+        },
+        {
+          "onset": 281534400000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 64
+        },
+        {
+          "onset": 282240000000,
+          "duration": 1764000000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 62
+        },
+        {
+          "onset": 285062400000,
+          "duration": 1411200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 72
+        },
+        {
+          "onset": 286473600000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 287179200000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 287884800000,
+          "duration": 1764000000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 290707200000,
+          "duration": 1411200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 292118400000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 292824000000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 65
+        },
+        {
+          "onset": 293529600000,
+          "duration": 1411200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 294940800000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 295646400000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 296352000000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 66
+        },
+        {
+          "onset": 297057600000,
+          "duration": 4233600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 62
+        },
+        {
+          "onset": 420537600000,
+          "duration": 1411200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 66
+        },
+        {
+          "onset": 421948800000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 66
+        },
+        {
+          "onset": 422654400000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 64
+        },
+        {
+          "onset": 423360000000,
+          "duration": 1764000000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 62
+        },
+        {
+          "onset": 426182400000,
+          "duration": 1411200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 427593600000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 428299200000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 65
+        },
+        {
+          "onset": 429004800000,
+          "duration": 1764000000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 431827200000,
+          "duration": 1411200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 433238400000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 433944000000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 434649600000,
+          "duration": 1411200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 64
+        },
+        {
+          "onset": 436060800000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 64
+        },
+        {
+          "onset": 436766400000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 62
+        },
+        {
+          "onset": 437472000000,
+          "duration": 2469600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 64
+        },
+        {
+          "onset": 440294400000,
+          "duration": 2116800000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 57
+        },
+        {
+          "onset": 443116800000,
+          "duration": 1411200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 66
+        },
+        {
+          "onset": 444528000000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 66
+        },
+        {
+          "onset": 445233600000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 64
+        },
+        {
+          "onset": 445939200000,
+          "duration": 1764000000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 62
+        },
+        {
+          "onset": 448761600000,
+          "duration": 1411200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 72
+        },
+        {
+          "onset": 450172800000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 450878400000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 451584000000,
+          "duration": 1764000000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 454406400000,
+          "duration": 1411200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 455817600000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 456523200000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 65
+        },
+        {
+          "onset": 457228800000,
+          "duration": 2822400000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 462168000000,
+          "duration": 1411200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 463579200000,
+          "duration": 1411200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 464990400000,
+          "duration": 1058400000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 66
+        },
+        {
+          "onset": 466048800000,
+          "duration": 7408800000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 62
+        }
+      ],
+      "gsEvents": null,
+      "mixer": {
+        "gainDecibel": 0,
+        "pan": 0,
+        "muted": false,
+        "solo": false,
+        "engineOn": true,
+        "display": true
+      },
+      "parameters": {
+        "interval": 5512500,
+        "pitchDelta": [
+          0,
+          0
+        ],
+        "vibratoEnv": [
+          0,
+          0
+        ],
+        "loudness": [
+          0,
+          0
+        ],
+        "tension": [
+          0,
+          0
+        ],
+        "breathiness": [
+          0,
+          0
+        ],
+        "voicing": [
+          0,
+          0
+        ],
+        "gender": [
+          0,
+          0
+        ]
+      }
+    }
+  ],
+  "instrumental": {
+    "filename": "",
+    "offset": 0
+  },
+  "mixer": {
+    "gainInstrumentalDecibel": 0,
+    "gainVocalMasterDecibel": 0,
+    "instrumentalMuted": false,
+    "vocalMasterMuted": false
+  }
+}
