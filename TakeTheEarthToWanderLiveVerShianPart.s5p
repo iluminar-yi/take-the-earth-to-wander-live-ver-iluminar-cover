@@ -19,675 +19,1893 @@
       "dbName": "五维介质·诗岸",
       "color": "15e879",
       "displayOrder": 0,
-      "dbDefaults": {},
+      "dbDefaults": {
+        "tension": 0,
+        "breathiness": 0,
+        "gender": 0,
+        "tF0VbrStart": 0.25,
+        "dF0Vbr": 0,
+        "dF0Jitter": 0
+      },
       "notes": [
         {
-          "onset": 22579200000,
+          "onset": 25401600000,
           "duration": 1411200000,
           "lyric": "dong",
           "comment": "东",
           "pitch": 66
         },
         {
-          "onset": 23990400000,
+          "onset": 26812800000,
           "duration": 705600000,
           "lyric": "lin",
           "comment": "临",
           "pitch": 66
         },
         {
-          "onset": 24696000000,
+          "onset": 27518400000,
           "duration": 705600000,
           "lyric": "jie",
           "comment": "碣",
           "pitch": 64
         },
         {
-          "onset": 25401600000,
+          "onset": 28224000000,
           "duration": 1764000000,
           "lyric": "shi",
           "comment": "石",
           "pitch": 62
         },
         {
-          "onset": 28224000000,
+          "onset": 31046400000,
           "duration": 1411200000,
           "lyric": "yi",
           "comment": "以",
           "pitch": 69
         },
         {
-          "onset": 29635200000,
+          "onset": 32457600000,
           "duration": 705600000,
           "lyric": "guan",
           "comment": "观",
           "pitch": 67
         },
         {
-          "onset": 30340800000,
+          "onset": 33163200000,
           "duration": 705600000,
           "lyric": "cang",
           "comment": "沧",
           "pitch": 65
         },
         {
-          "onset": 31046400000,
+          "onset": 33868800000,
           "duration": 1764000000,
           "lyric": "hai",
           "comment": "海",
           "pitch": 67
         },
         {
-          "onset": 33868800000,
+          "onset": 36691200000,
           "duration": 1411200000,
           "lyric": "shui",
           "comment": "水",
           "pitch": 67
         },
         {
-          "onset": 35280000000,
+          "onset": 38102400000,
           "duration": 705600000,
           "lyric": "he",
           "comment": "何",
           "pitch": 67
         },
         {
-          "onset": 35985600000,
+          "onset": 38808000000,
           "duration": 705600000,
           "lyric": "dan",
           "comment": "澹",
           "pitch": 69
         },
         {
-          "onset": 36691200000,
-          "duration": 1058400000,
+          "onset": 39513600000,
+          "duration": 705600000,
           "lyric": "dan",
           "comment": "澹",
           "pitch": 64
         },
         {
-          "onset": 38102400000,
+          "onset": 40924800000,
           "duration": 705600000,
           "lyric": "shan",
           "comment": "山",
           "pitch": 64
         },
         {
-          "onset": 38808000000,
+          "onset": 41630400000,
           "duration": 705600000,
           "lyric": "dao",
           "comment": "岛",
           "pitch": 62
         },
         {
-          "onset": 39513600000,
+          "onset": 42336000000,
           "duration": 2469600000,
           "lyric": "su",
           "comment": "竦",
           "pitch": 64
         },
         {
-          "onset": 42336000000,
+          "onset": 45158400000,
           "duration": 2116800000,
           "lyric": "zhi",
           "comment": "峙",
           "pitch": 57
         },
         {
-          "onset": 45158400000,
+          "onset": 47980800000,
           "duration": 1411200000,
           "lyric": "shu",
           "comment": "树",
           "pitch": 66
         },
         {
-          "onset": 46569600000,
+          "onset": 49392000000,
           "duration": 705600000,
           "lyric": "mu",
           "comment": "木",
           "pitch": 66
         },
         {
-          "onset": 47275200000,
+          "onset": 50097600000,
           "duration": 705600000,
           "lyric": "cong",
           "comment": "丛",
           "pitch": 64
         },
         {
-          "onset": 47980800000,
+          "onset": 50803200000,
           "duration": 1764000000,
           "lyric": "sheng",
           "comment": "生",
           "pitch": 62
         },
         {
-          "onset": 50803200000,
+          "onset": 53625600000,
           "duration": 1411200000,
           "lyric": "bai",
           "comment": "百",
           "pitch": 72
         },
         {
-          "onset": 52214400000,
+          "onset": 55036800000,
           "duration": 705600000,
           "lyric": "cao",
           "comment": "草",
           "pitch": 69
         },
         {
-          "onset": 52920000000,
+          "onset": 55742400000,
           "duration": 705600000,
           "lyric": "feng",
           "comment": "丰",
           "pitch": 67
         },
         {
-          "onset": 53625600000,
+          "onset": 56448000000,
           "duration": 1764000000,
           "lyric": "mao",
           "comment": "茂",
           "pitch": 69
         },
         {
-          "onset": 56448000000,
+          "onset": 59270400000,
           "duration": 1411200000,
           "lyric": "qiu",
           "comment": "秋",
           "pitch": 69
         },
         {
-          "onset": 57859200000,
+          "onset": 60681600000,
           "duration": 705600000,
           "lyric": "feng",
           "comment": "风",
           "pitch": 67
         },
         {
-          "onset": 58564800000,
+          "onset": 61387200000,
           "duration": 705600000,
           "lyric": "xiao",
           "comment": "萧",
           "pitch": 65
         },
         {
-          "onset": 59270400000,
+          "onset": 62092800000,
           "duration": 1058400000,
           "lyric": "se",
           "comment": "瑟",
           "pitch": 67
         },
         {
-          "onset": 60681600000,
+          "onset": 63504000000,
           "duration": 705600000,
           "lyric": "hong",
           "comment": "洪",
           "pitch": 67
         },
         {
-          "onset": 61387200000,
+          "onset": 64209600000,
           "duration": 705600000,
           "lyric": "bo",
           "comment": "波",
           "pitch": 69
         },
         {
-          "onset": 62092800000,
+          "onset": 64915200000,
           "duration": 705600000,
           "lyric": "yong",
           "comment": "涌",
           "pitch": 66
         },
         {
-          "onset": 62798400000,
+          "onset": 65620800000,
           "duration": 4233600000,
           "lyric": "qi",
           "comment": "起",
           "pitch": 62
         },
         {
-          "onset": 256838400000,
+          "onset": 259660800000,
           "duration": 1411200000,
           "lyric": "ri",
           "comment": "日",
           "pitch": 66
         },
         {
-          "onset": 258249600000,
+          "onset": 261072000000,
           "duration": 705600000,
           "lyric": "yue",
           "comment": "月",
           "pitch": 66
         },
         {
-          "onset": 258955200000,
+          "onset": 261777600000,
           "duration": 705600000,
           "lyric": "zhi",
           "comment": "之",
           "pitch": 64
         },
         {
-          "onset": 259660800000,
+          "onset": 262483200000,
           "duration": 1764000000,
           "lyric": "xing",
           "comment": "行",
           "pitch": 62
         },
         {
-          "onset": 262483200000,
+          "onset": 265305600000,
           "duration": 1411200000,
           "lyric": "ruo",
           "comment": "若",
           "pitch": 69
         },
         {
-          "onset": 263894400000,
+          "onset": 266716800000,
           "duration": 705600000,
           "lyric": "chu",
           "comment": "出",
           "pitch": 67
         },
         {
-          "onset": 264600000000,
+          "onset": 267422400000,
           "duration": 705600000,
           "lyric": "qi",
           "comment": "其",
           "pitch": 65
         },
         {
-          "onset": 265305600000,
+          "onset": 268128000000,
           "duration": 1764000000,
           "lyric": "zhong",
           "comment": "中",
           "pitch": 67
         },
         {
-          "onset": 268128000000,
+          "onset": 270950400000,
           "duration": 1411200000,
           "lyric": "xing",
           "comment": "星",
           "pitch": 67
         },
         {
-          "onset": 269539200000,
+          "onset": 272361600000,
           "duration": 705600000,
           "lyric": "han",
           "comment": "汉",
           "pitch": 67
         },
         {
-          "onset": 270244800000,
+          "onset": 273067200000,
           "duration": 705600000,
           "lyric": "can",
           "comment": "灿",
           "pitch": 69
         },
         {
-          "onset": 270950400000,
+          "onset": 273772800000,
           "duration": 1058400000,
           "lyric": "lan",
           "comment": "烂",
           "pitch": 64
         },
         {
-          "onset": 272361600000,
+          "onset": 275184000000,
           "duration": 705600000,
           "lyric": "ruo",
           "comment": "若",
           "pitch": 64
         },
         {
-          "onset": 273067200000,
+          "onset": 275889600000,
           "duration": 705600000,
           "lyric": "chu",
           "comment": "出",
           "pitch": 62
         },
         {
-          "onset": 273772800000,
+          "onset": 276595200000,
           "duration": 2469600000,
           "lyric": "qi",
           "comment": "其",
           "pitch": 64
         },
         {
-          "onset": 276595200000,
+          "onset": 279417600000,
           "duration": 2116800000,
           "lyric": "li",
           "comment": "里",
           "pitch": 57
         },
         {
-          "onset": 279417600000,
+          "onset": 282240000000,
           "duration": 1411200000,
           "lyric": "ri",
           "comment": "日",
           "pitch": 66
         },
         {
-          "onset": 280828800000,
+          "onset": 283651200000,
           "duration": 705600000,
           "lyric": "yue",
           "comment": "月",
           "pitch": 66
         },
         {
-          "onset": 281534400000,
+          "onset": 284356800000,
           "duration": 705600000,
           "lyric": "zhi",
           "comment": "之",
           "pitch": 64
         },
         {
-          "onset": 282240000000,
+          "onset": 285062400000,
           "duration": 1764000000,
           "lyric": "xing",
           "comment": "行",
           "pitch": 62
         },
         {
-          "onset": 285062400000,
+          "onset": 287884800000,
           "duration": 1411200000,
           "lyric": "ruo",
           "comment": "若",
           "pitch": 72
         },
         {
-          "onset": 286473600000,
+          "onset": 289296000000,
           "duration": 705600000,
           "lyric": "chu",
           "comment": "出",
           "pitch": 69
         },
         {
-          "onset": 287179200000,
+          "onset": 290001600000,
           "duration": 705600000,
           "lyric": "qi",
           "comment": "其",
           "pitch": 67
         },
         {
-          "onset": 287884800000,
+          "onset": 290707200000,
           "duration": 1764000000,
           "lyric": "zhong",
           "comment": "中",
           "pitch": 69
         },
         {
-          "onset": 290707200000,
+          "onset": 293529600000,
           "duration": 1411200000,
           "lyric": "xing",
           "comment": "星",
           "pitch": 69
         },
         {
-          "onset": 292118400000,
+          "onset": 294940800000,
           "duration": 705600000,
           "lyric": "han",
           "comment": "汉",
           "pitch": 67
         },
         {
-          "onset": 292824000000,
+          "onset": 295646400000,
           "duration": 705600000,
           "lyric": "can",
           "comment": "灿",
           "pitch": 65
         },
         {
-          "onset": 293529600000,
+          "onset": 296352000000,
           "duration": 1058400000,
           "lyric": "lan",
           "comment": "烂",
           "pitch": 67
         },
         {
-          "onset": 294940800000,
+          "onset": 297763200000,
           "duration": 705600000,
           "lyric": "ruo",
           "comment": "若",
           "pitch": 67
         },
         {
-          "onset": 295646400000,
+          "onset": 298468800000,
           "duration": 705600000,
           "lyric": "chu",
           "comment": "出",
           "pitch": 69
         },
         {
-          "onset": 296352000000,
+          "onset": 299174400000,
           "duration": 705600000,
           "lyric": "qi",
           "comment": "其",
           "pitch": 66
         },
         {
-          "onset": 297057600000,
+          "onset": 299880000000,
           "duration": 4233600000,
           "lyric": "li",
           "comment": "里",
           "pitch": 62
         },
         {
-          "onset": 420537600000,
+          "onset": 423183600000,
           "duration": 1411200000,
           "lyric": "ri",
           "comment": "日",
           "pitch": 66
         },
         {
-          "onset": 421948800000,
+          "onset": 424594800000,
           "duration": 705600000,
           "lyric": "yue",
           "comment": "月",
           "pitch": 66
         },
         {
-          "onset": 422654400000,
+          "onset": 425300400000,
           "duration": 705600000,
           "lyric": "zhi",
           "comment": "之",
           "pitch": 64
         },
         {
-          "onset": 423360000000,
+          "onset": 426006000000,
           "duration": 1764000000,
           "lyric": "xing",
           "comment": "行",
           "pitch": 62
         },
         {
-          "onset": 426182400000,
+          "onset": 428828400000,
           "duration": 1411200000,
           "lyric": "ruo",
           "comment": "若",
           "pitch": 69
         },
         {
-          "onset": 427593600000,
+          "onset": 430239600000,
           "duration": 705600000,
           "lyric": "chu",
           "comment": "出",
           "pitch": 67
         },
         {
-          "onset": 428299200000,
+          "onset": 430945200000,
           "duration": 705600000,
           "lyric": "qi",
           "comment": "其",
           "pitch": 65
         },
         {
-          "onset": 429004800000,
+          "onset": 431650800000,
           "duration": 1764000000,
           "lyric": "zhong",
           "comment": "中",
           "pitch": 67
         },
         {
-          "onset": 431827200000,
+          "onset": 434473200000,
           "duration": 1411200000,
           "lyric": "xing",
           "comment": "星",
           "pitch": 67
         },
         {
-          "onset": 433238400000,
+          "onset": 435884400000,
           "duration": 705600000,
           "lyric": "han",
           "comment": "汉",
           "pitch": 67
         },
         {
-          "onset": 433944000000,
+          "onset": 436590000000,
           "duration": 705600000,
           "lyric": "can",
           "comment": "灿",
           "pitch": 69
         },
         {
-          "onset": 434649600000,
+          "onset": 437295600000,
           "duration": 1058400000,
           "lyric": "lan",
           "comment": "烂",
           "pitch": 64
         },
         {
-          "onset": 436060800000,
+          "onset": 438706800000,
           "duration": 705600000,
           "lyric": "ruo",
           "comment": "若",
           "pitch": 64
         },
         {
-          "onset": 436766400000,
+          "onset": 439412400000,
           "duration": 705600000,
           "lyric": "chu",
           "comment": "出",
           "pitch": 62
         },
         {
-          "onset": 437472000000,
+          "onset": 440118000000,
           "duration": 2469600000,
           "lyric": "qi",
           "comment": "其",
           "pitch": 64
         },
         {
-          "onset": 440294400000,
+          "onset": 442940400000,
           "duration": 2116800000,
           "lyric": "li",
           "comment": "里",
           "pitch": 57
         },
         {
-          "onset": 443116800000,
+          "onset": 445762800000,
           "duration": 1411200000,
           "lyric": "ri",
           "comment": "日",
           "pitch": 66
         },
         {
-          "onset": 444528000000,
+          "onset": 447174000000,
           "duration": 705600000,
           "lyric": "yue",
           "comment": "月",
           "pitch": 66
         },
         {
-          "onset": 445233600000,
+          "onset": 447879600000,
           "duration": 705600000,
           "lyric": "zhi",
           "comment": "之",
           "pitch": 64
         },
         {
-          "onset": 445939200000,
+          "onset": 448585200000,
           "duration": 1764000000,
           "lyric": "xing",
           "comment": "行",
           "pitch": 62
         },
         {
-          "onset": 448761600000,
+          "onset": 451407600000,
           "duration": 1411200000,
           "lyric": "ruo",
           "comment": "若",
           "pitch": 72
         },
         {
-          "onset": 450172800000,
+          "onset": 452818800000,
           "duration": 705600000,
           "lyric": "chu",
           "comment": "出",
           "pitch": 69
         },
         {
-          "onset": 450878400000,
+          "onset": 453524400000,
           "duration": 705600000,
           "lyric": "qi",
           "comment": "其",
           "pitch": 67
         },
         {
-          "onset": 451584000000,
+          "onset": 454230000000,
           "duration": 1764000000,
           "lyric": "zhong",
           "comment": "中",
           "pitch": 69
         },
         {
-          "onset": 454406400000,
+          "onset": 457052400000,
           "duration": 1411200000,
           "lyric": "xing",
           "comment": "星",
           "pitch": 69
         },
         {
-          "onset": 455817600000,
+          "onset": 458463600000,
           "duration": 705600000,
           "lyric": "han",
           "comment": "汉",
           "pitch": 67
         },
         {
-          "onset": 456523200000,
-          "duration": 705600000,
+          "onset": 459169200000,
+          "duration": 1058400000,
           "lyric": "can",
           "comment": "灿",
           "pitch": 65
         },
         {
-          "onset": 457228800000,
+          "onset": 460227600000,
           "duration": 2822400000,
           "lyric": "lan",
           "comment": "烂",
           "pitch": 67
         },
         {
-          "onset": 462168000000,
+          "onset": 464990400000,
           "duration": 1411200000,
           "lyric": "ruo",
           "comment": "若",
           "pitch": 67
         },
         {
-          "onset": 463579200000,
+          "onset": 466401600000,
           "duration": 1411200000,
           "lyric": "chu",
           "comment": "出",
           "pitch": 69
         },
         {
-          "onset": 464990400000,
+          "onset": 467812800000,
           "duration": 1058400000,
           "lyric": "qi",
           "comment": "其",
           "pitch": 66
         },
         {
-          "onset": 466048800000,
+          "onset": 468871200000,
+          "duration": 7408800000,
+          "lyric": "li",
+          "comment": "里",
+          "pitch": 62
+        }
+      ],
+      "gsEvents": null,
+      "mixer": {
+        "gainDecibel": 0,
+        "pan": 0,
+        "muted": false,
+        "solo": false,
+        "engineOn": true,
+        "display": true
+      },
+      "parameters": {
+        "interval": 5512500,
+        "pitchDelta": [
+          0,
+          0
+        ],
+        "vibratoEnv": [
+          0,
+          0
+        ],
+        "loudness": [
+          0,
+          0
+        ],
+        "tension": [
+          0,
+          0
+        ],
+        "breathiness": [
+          0,
+          0
+        ],
+        "voicing": [
+          0,
+          0
+        ],
+        "gender": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "name": "Adult",
+      "dbName": "五维介质·苍穹",
+      "color": "ff1599e8",
+      "displayOrder": 1,
+      "dbDefaults": {
+        "tension": 0,
+        "breathiness": 0,
+        "gender": 0,
+        "tF0VbrStart": 0.25,
+        "dF0Vbr": 0,
+        "dF0Jitter": 0
+      },
+      "notes": [
+        {
+          "onset": 70560000000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 66
+        },
+        {
+          "onset": 71265600000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 64
+        },
+        {
+          "onset": 71971200000,
+          "duration": 2116800000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 62
+        },
+        {
+          "onset": 75499200000,
+          "duration": 352800000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 62
+        },
+        {
+          "onset": 75852000000,
+          "duration": 352800000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 62
+        },
+        {
+          "onset": 76204800000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 76910400000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 77616000000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 78321600000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 65
+        },
+        {
+          "onset": 79027200000,
+          "duration": 1058400000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 65
+        },
+        {
+          "onset": 80085600000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 81673200000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 62
+        },
+        {
+          "onset": 82378800000,
+          "duration": 1587600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 64
+        },
+        {
+          "onset": 87141600000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 62
+        },
+        {
+          "onset": 87847200000,
+          "duration": 882000000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 88729200000,
+          "duration": 352800000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 65
+        },
+        {
+          "onset": 89082000000,
+          "duration": 529200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 65
+        },
+        {
+          "onset": 89611200000,
+          "duration": 882000000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 64
+        },
+        {
+          "onset": 90493200000,
+          "duration": 882000000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 64
+        },
+        {
+          "onset": 91375200000,
+          "duration": 529200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 62
+        },
+        {
+          "onset": 91904400000,
+          "duration": 882000000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 62
+        },
+        {
+          "onset": 92786400000,
+          "duration": 1058400000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 62
+        },
+        {
+          "onset": 93844800000,
+          "duration": 1764000000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 57
+        },
+        {
+          "onset": 98387100000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 62
+        },
+        {
+          "onset": 99092700000,
+          "duration": 396900000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 99489600000,
+          "duration": 485100000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 99974700000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 100680300000,
+          "duration": 1102500000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 65
+        },
+        {
+          "onset": 101782800000,
+          "duration": 529200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 65
+        },
+        {
+          "onset": 102312000000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 64
+        },
+        {
+          "onset": 103017600000,
+          "duration": 1411200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 64
+        },
+        {
+          "onset": 104428800000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 62
+        },
+        {
+          "onset": 105134400000,
+          "duration": 2116800000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 109720800000,
+          "duration": 529200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 62
+        },
+        {
+          "onset": 110250000000,
+          "duration": 882000000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 111132000000,
+          "duration": 352800000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 111484800000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 112190400000,
+          "duration": 882000000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 113072400000,
+          "duration": 882000000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 72
+        },
+        {
+          "onset": 113954400000,
+          "duration": 1234800000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 115189200000,
+          "duration": 1411200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 116600400000,
+          "duration": 3351600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 74
+        },
+        {
+          "onset": 121142700000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 121848300000,
+          "duration": 3748500000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 76
+        },
+        {
+          "onset": 127008000000,
+          "duration": 1058400000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 76
+        },
+        {
+          "onset": 128066400000,
+          "duration": 352800000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 74
+        },
+        {
+          "onset": 128419200000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 74
+        },
+        {
+          "onset": 129124800000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 74
+        },
+        {
+          "onset": 129830400000,
+          "duration": 1764000000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 71
+        },
+        {
+          "onset": 132652800000,
+          "duration": 882000000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 74
+        },
+        {
+          "onset": 133534800000,
+          "duration": 529200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 72
+        },
+        {
+          "onset": 134064000000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 72
+        },
+        {
+          "onset": 134769600000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 70
+        },
+        {
+          "onset": 135475200000,
+          "duration": 1190700000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 70
+        },
+        {
+          "onset": 136665900000,
+          "duration": 926100000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 137592000000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 138297600000,
+          "duration": 1058400000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 139356000000,
+          "duration": 3175200000,
+          "lyric": "-",
+          "comment": "",
+          "pitch": 74
+        },
+        {
+          "onset": 143766000000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 144471600000,
+          "duration": 3351600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 76
+        },
+        {
+          "onset": 149410800000,
+          "duration": 1058400000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 78
+        },
+        {
+          "onset": 150469200000,
+          "duration": 529200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 76
+        },
+        {
+          "onset": 150998400000,
+          "duration": 529200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 76
+        },
+        {
+          "onset": 151527600000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 74
+        },
+        {
+          "onset": 152233200000,
+          "duration": 1234800000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 71
+        },
+        {
+          "onset": 154173600000,
+          "duration": 352800000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 154526400000,
+          "duration": 308700000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 154835100000,
+          "duration": 308700000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 155232000000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 77
+        },
+        {
+          "onset": 155937600000,
+          "duration": 352800000,
+          "lyric": "-",
+          "comment": "",
+          "pitch": 76
+        },
+        {
+          "onset": 156290400000,
+          "duration": 352800000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 76
+        },
+        {
+          "onset": 156643200000,
+          "duration": 529200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 76
+        },
+        {
+          "onset": 157172400000,
+          "duration": 882000000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 74
+        },
+        {
+          "onset": 158054400000,
+          "duration": 1234800000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 79
+        },
+        {
+          "onset": 159289200000,
+          "duration": 882000000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 72
+        },
+        {
+          "onset": 160171200000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 72
+        },
+        {
+          "onset": 160876800000,
+          "duration": 705600000,
+          "lyric": "-",
+          "comment": "",
+          "pitch": 74
+        },
+        {
+          "onset": 161582400000,
+          "duration": 176400000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 72
+        },
+        {
+          "onset": 161758800000,
+          "duration": 7232400000,
+          "lyric": "-",
+          "comment": "",
+          "pitch": 74
+        },
+        {
+          "onset": 183456000000,
+          "duration": 4939200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 74
+        },
+        {
+          "onset": 188395200000,
+          "duration": 1234800000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 189630000000,
+          "duration": 3704400000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 76
+        },
+        {
+          "onset": 194040000000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 194745600000,
+          "duration": 4233600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 77
+        },
+        {
+          "onset": 200390400000,
+          "duration": 1058400000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 77
+        },
+        {
+          "onset": 201448800000,
+          "duration": 352800000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 76
+        },
+        {
+          "onset": 201801600000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 76
+        },
+        {
+          "onset": 202507200000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 74
+        },
+        {
+          "onset": 203212800000,
+          "duration": 1411200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 79
+        },
+        {
+          "onset": 204624000000,
+          "duration": 4233600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 72
+        },
+        {
+          "onset": 210268800000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 72
+        },
+        {
+          "onset": 210974400000,
+          "duration": 705600000,
+          "lyric": "-",
+          "comment": "",
+          "pitch": 74
+        },
+        {
+          "onset": 211680000000,
+          "duration": 176400000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 72
+        },
+        {
+          "onset": 211856400000,
+          "duration": 42159600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 74
+        },
+        {
+          "onset": 304819200000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 66
+        },
+        {
+          "onset": 305524800000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 64
+        },
+        {
+          "onset": 306230400000,
+          "duration": 2116800000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 62
+        },
+        {
+          "onset": 309758400000,
+          "duration": 352800000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 62
+        },
+        {
+          "onset": 310111200000,
+          "duration": 352800000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 62
+        },
+        {
+          "onset": 310464000000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 311169600000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 311875200000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 312580800000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 65
+        },
+        {
+          "onset": 313286400000,
+          "duration": 1058400000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 65
+        },
+        {
+          "onset": 314344800000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 315932400000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 62
+        },
+        {
+          "onset": 316638000000,
+          "duration": 2998800000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 64
+        },
+        {
+          "onset": 321400800000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 62
+        },
+        {
+          "onset": 322106400000,
+          "duration": 882000000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 322988400000,
+          "duration": 352800000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 65
+        },
+        {
+          "onset": 323341200000,
+          "duration": 529200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 65
+        },
+        {
+          "onset": 323870400000,
+          "duration": 882000000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 64
+        },
+        {
+          "onset": 324752400000,
+          "duration": 882000000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 64
+        },
+        {
+          "onset": 325634400000,
+          "duration": 1058400000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 62
+        },
+        {
+          "onset": 326692800000,
+          "duration": 1058400000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 62
+        },
+        {
+          "onset": 327751200000,
+          "duration": 2469600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 57
+        },
+        {
+          "onset": 332646300000,
+          "duration": 396900000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 62
+        },
+        {
+          "onset": 333043200000,
+          "duration": 926100000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 333969300000,
+          "duration": 485100000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 334454400000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 335160000000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 65
+        },
+        {
+          "onset": 335865600000,
+          "duration": 1058400000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 65
+        },
+        {
+          "onset": 336924000000,
+          "duration": 1411200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 64
+        },
+        {
+          "onset": 338335200000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 62
+        },
+        {
+          "onset": 339040800000,
+          "duration": 2116800000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 343980000000,
+          "duration": 529200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 62
+        },
+        {
+          "onset": 344509200000,
+          "duration": 882000000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 345391200000,
+          "duration": 352800000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 345744000000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 67
+        },
+        {
+          "onset": 346449600000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 347155200000,
+          "duration": 1058400000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 72
+        },
+        {
+          "onset": 348213600000,
+          "duration": 1234800000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 349448400000,
+          "duration": 1411200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 69
+        },
+        {
+          "onset": 350859600000,
+          "duration": 10054800000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 74
+        },
+        {
+          "onset": 389491200000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 77
+        },
+        {
+          "onset": 390196800000,
+          "duration": 352800000,
+          "lyric": "-",
+          "comment": "",
+          "pitch": 76
+        },
+        {
+          "onset": 390549600000,
+          "duration": 352800000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 76
+        },
+        {
+          "onset": 390902400000,
+          "duration": 529200000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 76
+        },
+        {
+          "onset": 391431600000,
+          "duration": 882000000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 74
+        },
+        {
+          "onset": 392313600000,
+          "duration": 1234800000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 79
+        },
+        {
+          "onset": 393548400000,
+          "duration": 882000000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 72
+        },
+        {
+          "onset": 394430400000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 72
+        },
+        {
+          "onset": 395136000000,
+          "duration": 705600000,
+          "lyric": "-",
+          "comment": "",
+          "pitch": 74
+        },
+        {
+          "onset": 395841600000,
+          "duration": 176400000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 72
+        },
+        {
+          "onset": 396018000000,
+          "duration": 7232400000,
+          "lyric": "-",
+          "comment": "",
+          "pitch": 74
+        },
+        {
+          "onset": 411364800000,
+          "duration": 705600000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 72
+        },
+        {
+          "onset": 412070400000,
+          "duration": 705600000,
+          "lyric": "-",
+          "comment": "",
+          "pitch": 74
+        },
+        {
+          "onset": 412776000000,
+          "duration": 176400000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 72
+        },
+        {
+          "onset": 412952400000,
+          "duration": 4762800000,
+          "lyric": "la",
+          "comment": "",
+          "pitch": 74
+        },
+        {
+          "onset": 445762800000,
+          "duration": 1411200000,
+          "lyric": "ri",
+          "comment": "日",
+          "pitch": 66
+        },
+        {
+          "onset": 447174000000,
+          "duration": 705600000,
+          "lyric": "yue",
+          "comment": "月",
+          "pitch": 66
+        },
+        {
+          "onset": 447879600000,
+          "duration": 705600000,
+          "lyric": "zhi",
+          "comment": "之",
+          "pitch": 64
+        },
+        {
+          "onset": 448585200000,
+          "duration": 1764000000,
+          "lyric": "xing",
+          "comment": "行",
+          "pitch": 62
+        },
+        {
+          "onset": 451407600000,
+          "duration": 1411200000,
+          "lyric": "ruo",
+          "comment": "若",
+          "pitch": 72
+        },
+        {
+          "onset": 452818800000,
+          "duration": 705600000,
+          "lyric": "chu",
+          "comment": "出",
+          "pitch": 69
+        },
+        {
+          "onset": 453524400000,
+          "duration": 705600000,
+          "lyric": "qi",
+          "comment": "其",
+          "pitch": 67
+        },
+        {
+          "onset": 454230000000,
+          "duration": 1764000000,
+          "lyric": "zhong",
+          "comment": "中",
+          "pitch": 69
+        },
+        {
+          "onset": 457052400000,
+          "duration": 1411200000,
+          "lyric": "xing",
+          "comment": "星",
+          "pitch": 69
+        },
+        {
+          "onset": 458463600000,
+          "duration": 705600000,
+          "lyric": "han",
+          "comment": "汉",
+          "pitch": 67
+        },
+        {
+          "onset": 459169200000,
+          "duration": 1058400000,
+          "lyric": "can",
+          "comment": "灿",
+          "pitch": 65
+        },
+        {
+          "onset": 460227600000,
+          "duration": 2822400000,
+          "lyric": "lan",
+          "comment": "烂",
+          "pitch": 67
+        },
+        {
+          "onset": 464990400000,
+          "duration": 1411200000,
+          "lyric": "ruo",
+          "comment": "若",
+          "pitch": 67
+        },
+        {
+          "onset": 466401600000,
+          "duration": 1411200000,
+          "lyric": "chu",
+          "comment": "出",
+          "pitch": 69
+        },
+        {
+          "onset": 467812800000,
+          "duration": 1058400000,
+          "lyric": "qi",
+          "comment": "其",
+          "pitch": 66
+        },
+        {
+          "onset": 468871200000,
           "duration": 7408800000,
           "lyric": "li",
           "comment": "里",
@@ -737,8 +1955,8 @@
     }
   ],
   "instrumental": {
-    "filename": "",
-    "offset": 0
+    "filename": "external/带着地球去流浪.wav",
+    "offset": 1.458
   },
   "mixer": {
     "gainInstrumentalDecibel": 0,
