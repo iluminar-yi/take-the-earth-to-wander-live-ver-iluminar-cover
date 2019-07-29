@@ -29,672 +29,672 @@
       },
       "notes": [
         {
-          "onset": 25401600000,
+          "onset": 26415900000,
           "duration": 1411200000,
           "lyric": "dong",
           "comment": "东",
           "pitch": 66
         },
         {
-          "onset": 26812800000,
+          "onset": 27827100000,
           "duration": 705600000,
           "lyric": "lin",
           "comment": "临",
           "pitch": 66
         },
         {
-          "onset": 27518400000,
+          "onset": 28532700000,
           "duration": 705600000,
           "lyric": "jie",
           "comment": "碣",
           "pitch": 64
         },
         {
-          "onset": 28224000000,
+          "onset": 29238300000,
           "duration": 1764000000,
           "lyric": "shi",
           "comment": "石",
           "pitch": 62
         },
         {
-          "onset": 31046400000,
+          "onset": 32060700000,
           "duration": 1411200000,
           "lyric": "yi",
           "comment": "以",
           "pitch": 69
         },
         {
-          "onset": 32457600000,
+          "onset": 33471900000,
           "duration": 705600000,
           "lyric": "guan",
           "comment": "观",
           "pitch": 67
         },
         {
-          "onset": 33163200000,
+          "onset": 34177500000,
           "duration": 705600000,
           "lyric": "cang",
           "comment": "沧",
           "pitch": 65
         },
         {
-          "onset": 33868800000,
+          "onset": 34883100000,
           "duration": 1764000000,
           "lyric": "hai",
           "comment": "海",
           "pitch": 67
         },
         {
-          "onset": 36691200000,
+          "onset": 37705500000,
           "duration": 1411200000,
           "lyric": "shui",
           "comment": "水",
           "pitch": 67
         },
         {
-          "onset": 38102400000,
+          "onset": 39116700000,
           "duration": 705600000,
           "lyric": "he",
           "comment": "何",
           "pitch": 67
         },
         {
-          "onset": 38808000000,
+          "onset": 39822300000,
           "duration": 705600000,
           "lyric": "dan",
           "comment": "澹",
           "pitch": 69
         },
         {
-          "onset": 39513600000,
+          "onset": 40527900000,
           "duration": 705600000,
           "lyric": "dan",
           "comment": "澹",
           "pitch": 64
         },
         {
-          "onset": 40924800000,
+          "onset": 41939100000,
           "duration": 705600000,
           "lyric": "shan",
           "comment": "山",
           "pitch": 64
         },
         {
-          "onset": 41630400000,
+          "onset": 42644700000,
           "duration": 705600000,
           "lyric": "dao",
           "comment": "岛",
           "pitch": 62
         },
         {
-          "onset": 42336000000,
+          "onset": 43350300000,
           "duration": 2469600000,
           "lyric": "su",
           "comment": "竦",
           "pitch": 64
         },
         {
-          "onset": 45158400000,
+          "onset": 46172700000,
           "duration": 2116800000,
           "lyric": "zhi",
           "comment": "峙",
           "pitch": 57
         },
         {
-          "onset": 47980800000,
+          "onset": 48995100000,
           "duration": 1411200000,
           "lyric": "shu",
           "comment": "树",
           "pitch": 66
         },
         {
-          "onset": 49392000000,
+          "onset": 50406300000,
           "duration": 705600000,
           "lyric": "mu",
           "comment": "木",
           "pitch": 66
         },
         {
-          "onset": 50097600000,
+          "onset": 51111900000,
           "duration": 705600000,
           "lyric": "cong",
           "comment": "丛",
           "pitch": 64
         },
         {
-          "onset": 50803200000,
+          "onset": 51817500000,
           "duration": 1764000000,
           "lyric": "sheng",
           "comment": "生",
           "pitch": 62
         },
         {
-          "onset": 53625600000,
+          "onset": 54639900000,
           "duration": 1411200000,
           "lyric": "bai",
           "comment": "百",
           "pitch": 72
         },
         {
-          "onset": 55036800000,
+          "onset": 56051100000,
           "duration": 705600000,
           "lyric": "cao",
           "comment": "草",
           "pitch": 69
         },
         {
-          "onset": 55742400000,
+          "onset": 56756700000,
           "duration": 705600000,
           "lyric": "feng",
           "comment": "丰",
           "pitch": 67
         },
         {
-          "onset": 56448000000,
+          "onset": 57462300000,
           "duration": 1764000000,
           "lyric": "mao",
           "comment": "茂",
           "pitch": 69
         },
         {
-          "onset": 59270400000,
+          "onset": 60284700000,
           "duration": 1411200000,
           "lyric": "qiu",
           "comment": "秋",
           "pitch": 69
         },
         {
-          "onset": 60681600000,
+          "onset": 61695900000,
           "duration": 705600000,
           "lyric": "feng",
           "comment": "风",
           "pitch": 67
         },
         {
-          "onset": 61387200000,
+          "onset": 62401500000,
           "duration": 705600000,
           "lyric": "xiao",
           "comment": "萧",
           "pitch": 65
         },
         {
-          "onset": 62092800000,
+          "onset": 63107100000,
           "duration": 1058400000,
           "lyric": "se",
           "comment": "瑟",
           "pitch": 67
         },
         {
-          "onset": 63504000000,
+          "onset": 64518300000,
           "duration": 705600000,
           "lyric": "hong",
           "comment": "洪",
           "pitch": 67
         },
         {
-          "onset": 64209600000,
+          "onset": 65223900000,
           "duration": 705600000,
           "lyric": "bo",
           "comment": "波",
           "pitch": 69
         },
         {
-          "onset": 64915200000,
+          "onset": 65929500000,
           "duration": 705600000,
           "lyric": "yong",
           "comment": "涌",
           "pitch": 66
         },
         {
-          "onset": 65620800000,
+          "onset": 66635100000,
           "duration": 4233600000,
           "lyric": "qi",
           "comment": "起",
           "pitch": 62
         },
         {
-          "onset": 259660800000,
+          "onset": 260675100000,
           "duration": 1411200000,
           "lyric": "ri",
           "comment": "日",
           "pitch": 66
         },
         {
-          "onset": 261072000000,
+          "onset": 262086300000,
           "duration": 705600000,
           "lyric": "yue",
           "comment": "月",
           "pitch": 66
         },
         {
-          "onset": 261777600000,
+          "onset": 262791900000,
           "duration": 705600000,
           "lyric": "zhi",
           "comment": "之",
           "pitch": 64
         },
         {
-          "onset": 262483200000,
+          "onset": 263497500000,
           "duration": 1764000000,
           "lyric": "xing",
           "comment": "行",
           "pitch": 62
         },
         {
-          "onset": 265305600000,
+          "onset": 266319900000,
           "duration": 1411200000,
           "lyric": "ruo",
           "comment": "若",
           "pitch": 69
         },
         {
-          "onset": 266716800000,
+          "onset": 267731100000,
           "duration": 705600000,
           "lyric": "chu",
           "comment": "出",
           "pitch": 67
         },
         {
-          "onset": 267422400000,
+          "onset": 268436700000,
           "duration": 705600000,
           "lyric": "qi",
           "comment": "其",
           "pitch": 65
         },
         {
-          "onset": 268128000000,
+          "onset": 269142300000,
           "duration": 1764000000,
           "lyric": "zhong",
           "comment": "中",
           "pitch": 67
         },
         {
-          "onset": 270950400000,
+          "onset": 271964700000,
           "duration": 1411200000,
           "lyric": "xing",
           "comment": "星",
           "pitch": 67
         },
         {
-          "onset": 272361600000,
+          "onset": 273375900000,
           "duration": 705600000,
           "lyric": "han",
           "comment": "汉",
           "pitch": 67
         },
         {
-          "onset": 273067200000,
+          "onset": 274081500000,
           "duration": 705600000,
           "lyric": "can",
           "comment": "灿",
           "pitch": 69
         },
         {
-          "onset": 273772800000,
+          "onset": 274787100000,
           "duration": 1058400000,
           "lyric": "lan",
           "comment": "烂",
           "pitch": 64
         },
         {
-          "onset": 275184000000,
+          "onset": 276198300000,
           "duration": 705600000,
           "lyric": "ruo",
           "comment": "若",
           "pitch": 64
         },
         {
-          "onset": 275889600000,
+          "onset": 276903900000,
           "duration": 705600000,
           "lyric": "chu",
           "comment": "出",
           "pitch": 62
         },
         {
-          "onset": 276595200000,
+          "onset": 277609500000,
           "duration": 2469600000,
           "lyric": "qi",
           "comment": "其",
           "pitch": 64
         },
         {
-          "onset": 279417600000,
+          "onset": 280431900000,
           "duration": 2116800000,
           "lyric": "li",
           "comment": "里",
           "pitch": 57
         },
         {
-          "onset": 282240000000,
+          "onset": 283254300000,
           "duration": 1411200000,
           "lyric": "ri",
           "comment": "日",
           "pitch": 66
         },
         {
-          "onset": 283651200000,
+          "onset": 284665500000,
           "duration": 705600000,
           "lyric": "yue",
           "comment": "月",
           "pitch": 66
         },
         {
-          "onset": 284356800000,
+          "onset": 285371100000,
           "duration": 705600000,
           "lyric": "zhi",
           "comment": "之",
           "pitch": 64
         },
         {
-          "onset": 285062400000,
+          "onset": 286076700000,
           "duration": 1764000000,
           "lyric": "xing",
           "comment": "行",
           "pitch": 62
         },
         {
-          "onset": 287884800000,
+          "onset": 288899100000,
           "duration": 1411200000,
           "lyric": "ruo",
           "comment": "若",
           "pitch": 72
         },
         {
-          "onset": 289296000000,
+          "onset": 290310300000,
           "duration": 705600000,
           "lyric": "chu",
           "comment": "出",
           "pitch": 69
         },
         {
-          "onset": 290001600000,
+          "onset": 291015900000,
           "duration": 705600000,
           "lyric": "qi",
           "comment": "其",
           "pitch": 67
         },
         {
-          "onset": 290707200000,
+          "onset": 291721500000,
           "duration": 1764000000,
           "lyric": "zhong",
           "comment": "中",
           "pitch": 69
         },
         {
-          "onset": 293529600000,
+          "onset": 294543900000,
           "duration": 1411200000,
           "lyric": "xing",
           "comment": "星",
           "pitch": 69
         },
         {
-          "onset": 294940800000,
+          "onset": 295955100000,
           "duration": 705600000,
           "lyric": "han",
           "comment": "汉",
           "pitch": 67
         },
         {
-          "onset": 295646400000,
+          "onset": 296660700000,
           "duration": 705600000,
           "lyric": "can",
           "comment": "灿",
           "pitch": 65
         },
         {
-          "onset": 296352000000,
+          "onset": 297366300000,
           "duration": 1058400000,
           "lyric": "lan",
           "comment": "烂",
           "pitch": 67
         },
         {
-          "onset": 297763200000,
+          "onset": 298777500000,
           "duration": 705600000,
           "lyric": "ruo",
           "comment": "若",
           "pitch": 67
         },
         {
-          "onset": 298468800000,
+          "onset": 299483100000,
           "duration": 705600000,
           "lyric": "chu",
           "comment": "出",
           "pitch": 69
         },
         {
-          "onset": 299174400000,
+          "onset": 300188700000,
           "duration": 705600000,
           "lyric": "qi",
           "comment": "其",
           "pitch": 66
         },
         {
-          "onset": 299880000000,
-          "duration": 4233600000,
+          "onset": 300894300000,
+          "duration": 3924900000,
           "lyric": "li",
           "comment": "里",
           "pitch": 62
         },
         {
-          "onset": 423360000000,
+          "onset": 424374300000,
           "duration": 1411200000,
           "lyric": "ri",
           "comment": "日",
           "pitch": 66
         },
         {
-          "onset": 424771200000,
+          "onset": 425785500000,
           "duration": 705600000,
           "lyric": "yue",
           "comment": "月",
           "pitch": 66
         },
         {
-          "onset": 425476800000,
+          "onset": 426491100000,
           "duration": 705600000,
           "lyric": "zhi",
           "comment": "之",
           "pitch": 64
         },
         {
-          "onset": 426182400000,
+          "onset": 427196700000,
           "duration": 1764000000,
           "lyric": "xing",
           "comment": "行",
           "pitch": 62
         },
         {
-          "onset": 429004800000,
+          "onset": 430019100000,
           "duration": 1411200000,
           "lyric": "ruo",
           "comment": "若",
           "pitch": 69
         },
         {
-          "onset": 430416000000,
+          "onset": 431430300000,
           "duration": 705600000,
           "lyric": "chu",
           "comment": "出",
           "pitch": 67
         },
         {
-          "onset": 431121600000,
+          "onset": 432135900000,
           "duration": 705600000,
           "lyric": "qi",
           "comment": "其",
           "pitch": 65
         },
         {
-          "onset": 431827200000,
+          "onset": 432841500000,
           "duration": 1764000000,
           "lyric": "zhong",
           "comment": "中",
           "pitch": 67
         },
         {
-          "onset": 434649600000,
+          "onset": 435663900000,
           "duration": 1411200000,
           "lyric": "xing",
           "comment": "星",
           "pitch": 67
         },
         {
-          "onset": 436060800000,
+          "onset": 437075100000,
           "duration": 705600000,
           "lyric": "han",
           "comment": "汉",
           "pitch": 67
         },
         {
-          "onset": 436766400000,
+          "onset": 437780700000,
           "duration": 705600000,
           "lyric": "can",
           "comment": "灿",
           "pitch": 69
         },
         {
-          "onset": 437472000000,
+          "onset": 438486300000,
           "duration": 1058400000,
           "lyric": "lan",
           "comment": "烂",
           "pitch": 64
         },
         {
-          "onset": 438883200000,
+          "onset": 439897500000,
           "duration": 705600000,
           "lyric": "ruo",
           "comment": "若",
           "pitch": 64
         },
         {
-          "onset": 439588800000,
+          "onset": 440603100000,
           "duration": 705600000,
           "lyric": "chu",
           "comment": "出",
           "pitch": 62
         },
         {
-          "onset": 440294400000,
+          "onset": 441308700000,
           "duration": 2469600000,
           "lyric": "qi",
           "comment": "其",
           "pitch": 64
         },
         {
-          "onset": 443116800000,
+          "onset": 444131100000,
           "duration": 2116800000,
           "lyric": "li",
           "comment": "里",
           "pitch": 57
         },
         {
-          "onset": 445939200000,
+          "onset": 446953500000,
           "duration": 1411200000,
           "lyric": "ri",
           "comment": "日",
           "pitch": 66
         },
         {
-          "onset": 447350400000,
+          "onset": 448364700000,
           "duration": 705600000,
           "lyric": "yue",
           "comment": "月",
           "pitch": 66
         },
         {
-          "onset": 448056000000,
+          "onset": 449070300000,
           "duration": 705600000,
           "lyric": "zhi",
           "comment": "之",
           "pitch": 64
         },
         {
-          "onset": 448761600000,
+          "onset": 449775900000,
           "duration": 1764000000,
           "lyric": "xing",
           "comment": "行",
           "pitch": 62
         },
         {
-          "onset": 451584000000,
+          "onset": 452598300000,
           "duration": 1411200000,
           "lyric": "ruo",
           "comment": "若",
           "pitch": 72
         },
         {
-          "onset": 452995200000,
+          "onset": 454009500000,
           "duration": 705600000,
           "lyric": "chu",
           "comment": "出",
           "pitch": 69
         },
         {
-          "onset": 453700800000,
+          "onset": 454715100000,
           "duration": 705600000,
           "lyric": "qi",
           "comment": "其",
           "pitch": 67
         },
         {
-          "onset": 454406400000,
+          "onset": 455420700000,
           "duration": 1764000000,
           "lyric": "zhong",
           "comment": "中",
           "pitch": 69
         },
         {
-          "onset": 457228800000,
+          "onset": 458243100000,
           "duration": 1411200000,
           "lyric": "xing",
           "comment": "星",
           "pitch": 69
         },
         {
-          "onset": 458640000000,
+          "onset": 459654300000,
           "duration": 705600000,
           "lyric": "han",
           "comment": "汉",
           "pitch": 67
         },
         {
-          "onset": 459345600000,
+          "onset": 460359900000,
           "duration": 705600000,
           "lyric": "can",
           "comment": "灿",
           "pitch": 65
         },
         {
-          "onset": 460051200000,
+          "onset": 461065500000,
           "duration": 3175200000,
           "lyric": "lan",
           "comment": "烂",
           "pitch": 67
         },
         {
-          "onset": 465299100000,
+          "onset": 466313400000,
           "duration": 1102500000,
           "lyric": "ruo",
           "comment": "若",
           "pitch": 67
         },
         {
-          "onset": 466401600000,
+          "onset": 467415900000,
           "duration": 1411200000,
           "lyric": "chu",
           "comment": "出",
           "pitch": 69
         },
         {
-          "onset": 467812800000,
+          "onset": 468827100000,
           "duration": 1058400000,
           "lyric": "qi",
           "comment": "其",
           "pitch": 66
         },
         {
-          "onset": 468871200000,
+          "onset": 469885500000,
           "duration": 7408800000,
           "lyric": "li",
           "comment": "里",
@@ -757,1414 +757,1442 @@
       },
       "notes": [
         {
-          "onset": 70471800000,
+          "onset": 71486100000,
           "duration": 705600000,
           "lyric": "ji",
           "comment": "记",
           "pitch": 54
         },
         {
-          "onset": 71177400000,
+          "onset": 72191700000,
           "duration": 705600000,
           "lyric": "de",
           "comment": "得",
           "pitch": 52
         },
         {
-          "onset": 71883000000,
+          "onset": 72897300000,
           "duration": 2116800000,
           "lyric": "-",
           "comment": "",
           "pitch": 50
         },
         {
-          "onset": 75411000000,
+          "onset": 76425300000,
           "duration": 352800000,
           "lyric": "wo",
           "comment": "我",
           "pitch": 50
         },
         {
-          "onset": 75763800000,
+          "onset": 76778100000,
           "duration": 352800000,
           "lyric": "men",
           "comment": "们",
           "pitch": 50
         },
         {
-          "onset": 76116600000,
+          "onset": 77130900000,
           "duration": 705600000,
           "lyric": "yi",
           "comment": "一",
           "pitch": 57
         },
         {
-          "onset": 76822200000,
+          "onset": 77836500000,
           "duration": 705600000,
           "lyric": "qi",
           "comment": "起",
           "pitch": 55
         },
         {
-          "onset": 77527800000,
+          "onset": 78542100000,
           "duration": 705600000,
           "lyric": "zuo",
           "comment": "坐",
           "pitch": 55
         },
         {
-          "onset": 78233400000,
+          "onset": 79247700000,
           "duration": 705600000,
           "lyric": "zai",
           "comment": "在",
           "pitch": 53
         },
         {
-          "onset": 78939000000,
+          "onset": 79953300000,
           "duration": 1058400000,
           "lyric": "hai",
           "comment": "海",
           "pitch": 53
         },
         {
-          "onset": 79997400000,
+          "onset": 81011700000,
           "duration": 970200000,
           "lyric": "bian",
           "comment": "边",
           "pitch": 55
         },
         {
-          "onset": 81585000000,
+          "onset": 82599300000,
           "duration": 705600000,
           "lyric": "kan",
           "comment": "看",
           "pitch": 50
         },
         {
-          "onset": 82290600000,
+          "onset": 83304900000,
           "duration": 1852200000,
           "lyric": "tian",
           "comment": "天",
           "pitch": 52
         },
         {
-          "onset": 87053400000,
+          "onset": 88067700000,
           "duration": 529200000,
           "lyric": "hai",
           "comment": "还",
           "pitch": 50
         },
         {
-          "onset": 87582600000,
+          "onset": 88596900000,
           "duration": 1058400000,
           "lyric": "yi",
           "comment": "以",
           "pitch": 55
         },
         {
-          "onset": 88641000000,
+          "onset": 89655300000,
           "duration": 352800000,
           "lyric": "wei",
           "comment": "为",
           "pitch": 53
         },
         {
-          "onset": 88993800000,
+          "onset": 90008100000,
           "duration": 529200000,
           "lyric": "na",
           "comment": "那",
           "pitch": 53
         },
         {
-          "onset": 89523000000,
+          "onset": 90537300000,
           "duration": 793800000,
           "lyric": "jiu",
           "comment": "就",
           "pitch": 52
         },
         {
-          "onset": 90316800000,
+          "onset": 91331100000,
           "duration": 970200000,
           "lyric": "shi",
           "comment": "是",
           "pitch": 52
         },
         {
-          "onset": 91287000000,
-          "duration": 573300000,
-          "lyric": "zui",
-          "comment": "最",
-          "pitch": 50
-        },
-        {
-          "onset": 91860300000,
-          "duration": 837900000,
+          "onset": 92301300000,
+          "duration": 396900000,
           "lyric": "zui",
           "comment": "最",
           "pitch": 50
         },
         {
           "onset": 92698200000,
+          "duration": 793800000,
+          "lyric": "zui",
+          "comment": "最",
+          "pitch": 50
+        },
+        {
+          "onset": 93492000000,
+          "duration": 220500000,
+          "lyric": "-",
+          "comment": "",
+          "pitch": 48
+        },
+        {
+          "onset": 93712500000,
           "duration": 617400000,
           "lyric": "yao",
           "comment": "遥",
           "pitch": 48
         },
         {
-          "onset": 93315600000,
+          "onset": 94329900000,
           "duration": 529200000,
           "lyric": "-",
           "comment": "",
           "pitch": 45
         },
         {
-          "onset": 93844800000,
+          "onset": 94859100000,
           "duration": 1764000000,
           "lyric": "yuan",
           "comment": "远",
           "pitch": 45
         },
         {
-          "onset": 98298900000,
-          "duration": 705600000,
+          "onset": 99489600000,
+          "duration": 529200000,
           "lyric": "que",
           "comment": "却",
           "pitch": 50
         },
         {
-          "onset": 99004500000,
-          "duration": 485100000,
+          "onset": 100018800000,
+          "duration": 529200000,
           "lyric": "bu",
           "comment": "不",
           "pitch": 57
         },
         {
-          "onset": 99489600000,
-          "duration": 441000000,
+          "onset": 100548000000,
+          "duration": 220500000,
+          "lyric": "-",
+          "comment": "",
+          "pitch": 55
+        },
+        {
+          "onset": 100768500000,
+          "duration": 352800000,
           "lyric": "zhi",
           "comment": "知",
           "pitch": 55
         },
         {
-          "onset": 99930600000,
-          "duration": 573300000,
+          "onset": 101121300000,
+          "duration": 308700000,
           "lyric": "dao",
           "comment": "道",
           "pitch": 55
         },
         {
-          "onset": 100503900000,
-          "duration": 176400000,
+          "onset": 101430000000,
+          "duration": 352800000,
           "lyric": "-",
           "comment": "",
           "pitch": 53
         },
         {
-          "onset": 100680300000,
-          "duration": 837900000,
+          "onset": 101782800000,
+          "duration": 749700000,
           "lyric": "ni",
           "comment": "你",
           "pitch": 53
         },
         {
-          "onset": 101518200000,
+          "onset": 102532500000,
           "duration": 617400000,
           "lyric": "jiu",
           "comment": "就",
           "pitch": 53
         },
         {
-          "onset": 102135600000,
+          "onset": 103149900000,
           "duration": 705600000,
           "lyric": "yao",
           "comment": "要",
           "pitch": 52
         },
         {
-          "onset": 102841200000,
-          "duration": 882000000,
+          "onset": 103855500000,
+          "duration": 970200000,
           "lyric": "qu",
           "comment": "去",
           "pitch": 52
         },
         {
-          "onset": 103723200000,
-          "duration": 529200000,
+          "onset": 104825700000,
+          "duration": 441000000,
           "lyric": "-",
           "comment": "",
           "pitch": 50
         },
         {
-          "onset": 104252400000,
-          "duration": 882000000,
+          "onset": 105266700000,
+          "duration": 749700000,
           "lyric": "na",
           "comment": "那",
           "pitch": 50
         },
         {
-          "onset": 105134400000,
-          "duration": 2116800000,
+          "onset": 106016400000,
+          "duration": 132300000,
           "lyric": "li",
+          "comment": "里",
+          "pitch": 50
+        },
+        {
+          "onset": 106148700000,
+          "duration": 2116800000,
+          "lyric": "-",
           "comment": "里",
           "pitch": 55
         },
         {
-          "onset": 109632600000,
+          "onset": 110646900000,
           "duration": 529200000,
           "lyric": "geng",
           "comment": "更",
           "pitch": 50
         },
         {
-          "onset": 110161800000,
+          "onset": 111176100000,
           "duration": 882000000,
           "lyric": "bu",
           "comment": "不",
           "pitch": 57
         },
         {
-          "onset": 111043800000,
+          "onset": 112058100000,
           "duration": 441000000,
           "lyric": "zhi",
           "comment": "知",
           "pitch": 55
         },
         {
-          "onset": 111484800000,
+          "onset": 112499100000,
           "duration": 617400000,
           "lyric": "dao",
           "comment": "道",
           "pitch": 55
         },
         {
-          "onset": 112102200000,
+          "onset": 113116500000,
           "duration": 793800000,
           "lyric": "ni",
           "comment": "你",
           "pitch": 57
         },
         {
-          "onset": 112896000000,
+          "onset": 113910300000,
           "duration": 1058400000,
           "lyric": "yi",
           "comment": "一",
           "pitch": 60
         },
         {
-          "onset": 113954400000,
+          "onset": 114968700000,
           "duration": 1102500000,
           "lyric": "qu",
           "comment": "去",
           "pitch": 57
         },
         {
-          "onset": 115056900000,
+          "onset": 116071200000,
           "duration": 1278900000,
           "lyric": "bu",
           "comment": "不",
           "pitch": 57
         },
         {
-          "onset": 116335800000,
+          "onset": 117350100000,
           "duration": 3528000000,
           "lyric": "huan",
           "comment": "还",
           "pitch": 62
         },
         {
-          "onset": 121054500000,
+          "onset": 122068800000,
           "duration": 705600000,
           "lyric": "jin",
           "comment": "今",
           "pitch": 57
         },
         {
-          "onset": 121760100000,
+          "onset": 122774400000,
           "duration": 3748500000,
           "lyric": "tian",
           "comment": "天",
           "pitch": 64
         },
         {
-          "onset": 126919800000,
-          "duration": 1058400000,
+          "onset": 128110500000,
+          "duration": 882000000,
           "lyric": "hai",
           "comment": "还",
           "pitch": 64
         },
         {
-          "onset": 127978200000,
+          "onset": 128992500000,
           "duration": 352800000,
           "lyric": "bu",
           "comment": "不",
           "pitch": 62
         },
         {
-          "onset": 128331000000,
+          "onset": 129345300000,
           "duration": 705600000,
           "lyric": "zhi",
           "comment": "知",
           "pitch": 62
         },
         {
-          "onset": 129036600000,
+          "onset": 130050900000,
           "duration": 441000000,
           "lyric": "dao",
           "comment": "道",
           "pitch": 62
         },
         {
-          "onset": 129477600000,
+          "onset": 130491900000,
           "duration": 264600000,
           "lyric": "-",
           "comment": "",
           "pitch": 59
         },
         {
-          "onset": 129742200000,
+          "onset": 130756500000,
           "duration": 1764000000,
           "lyric": "a",
           "comment": "啊",
           "pitch": 59
         },
         {
-          "onset": 132652800000,
+          "onset": 133843500000,
           "duration": 882000000,
           "lyric": "ni",
           "comment": "你",
           "pitch": 62
         },
         {
-          "onset": 133534800000,
+          "onset": 134725500000,
           "duration": 529200000,
           "lyric": "he",
           "comment": "和",
           "pitch": 60
         },
         {
-          "onset": 134064000000,
-          "duration": 705600000,
+          "onset": 135254700000,
+          "duration": 529200000,
           "lyric": "si",
           "comment": "思",
           "pitch": 60
         },
         {
-          "onset": 134769600000,
+          "onset": 135783900000,
           "duration": 705600000,
           "lyric": "nian",
           "comment": "念",
           "pitch": 58
         },
         {
-          "onset": 135475200000,
+          "onset": 136489500000,
           "duration": 1190700000,
           "lyric": "na",
           "comment": "哪",
           "pitch": 58
         },
         {
-          "onset": 136665900000,
+          "onset": 137680200000,
           "duration": 926100000,
           "lyric": "ge",
           "comment": "个",
           "pitch": 57
         },
         {
-          "onset": 137592000000,
+          "onset": 138606300000,
           "duration": 705600000,
           "lyric": "geng",
           "comment": "更",
           "pitch": 55
         },
         {
-          "onset": 138297600000,
+          "onset": 139311900000,
           "duration": 1058400000,
           "lyric": "yuan",
           "comment": "远",
           "pitch": 57
         },
         {
-          "onset": 139356000000,
+          "onset": 140370300000,
           "duration": 3175200000,
           "lyric": "-",
           "comment": "",
           "pitch": 62
         },
         {
-          "onset": 143677800000,
+          "onset": 144692100000,
           "duration": 705600000,
           "lyric": "ming",
           "comment": "明",
           "pitch": 57
         },
         {
-          "onset": 144383400000,
+          "onset": 145397700000,
           "duration": 3351600000,
           "lyric": "tian",
           "comment": "天",
           "pitch": 64
         },
         {
-          "onset": 149322600000,
-          "duration": 1058400000,
+          "onset": 150601500000,
+          "duration": 882000000,
           "lyric": "geng",
           "comment": "更",
           "pitch": 66
         },
         {
-          "onset": 150381000000,
+          "onset": 151483500000,
           "duration": 529200000,
           "lyric": "bu",
           "comment": "不",
           "pitch": 64
         },
         {
-          "onset": 150910200000,
+          "onset": 152012700000,
           "duration": 529200000,
           "lyric": "zhi",
           "comment": "知",
           "pitch": 64
         },
         {
-          "onset": 151439400000,
-          "duration": 441000000,
+          "onset": 152541900000,
+          "duration": 352800000,
           "lyric": "dao",
           "comment": "道",
           "pitch": 62
         },
         {
-          "onset": 151880400000,
+          "onset": 152894700000,
           "duration": 264600000,
           "lyric": "-",
           "comment": "",
           "pitch": 59
         },
         {
-          "onset": 152145000000,
+          "onset": 153159300000,
           "duration": 1234800000,
           "lyric": "a",
           "comment": "啊",
           "pitch": 59
         },
         {
-          "onset": 154085400000,
+          "onset": 155099700000,
           "duration": 352800000,
           "lyric": "wo",
           "comment": "我",
           "pitch": 57
         },
         {
-          "onset": 154438200000,
+          "onset": 155452500000,
           "duration": 308700000,
           "lyric": "men",
           "comment": "们",
           "pitch": 57
         },
         {
-          "onset": 154746900000,
+          "onset": 155761200000,
           "duration": 308700000,
           "lyric": "yao",
           "comment": "要",
           "pitch": 57
         },
         {
-          "onset": 155143800000,
+          "onset": 156158100000,
           "duration": 705600000,
           "lyric": "dai",
           "comment": "带",
           "pitch": 65
         },
         {
-          "onset": 155849400000,
+          "onset": 156863700000,
           "duration": 352800000,
           "lyric": "-",
           "comment": "",
           "pitch": 64
         },
         {
-          "onset": 156202200000,
+          "onset": 157216500000,
           "duration": 441000000,
           "lyric": "zhe",
           "comment": "着",
           "pitch": 64
         },
         {
-          "onset": 156643200000,
+          "onset": 157657500000,
           "duration": 352800000,
           "lyric": "jia",
           "comment": "家",
           "pitch": 64
         },
         {
-          "onset": 156996000000,
+          "onset": 158010300000,
           "duration": 176400000,
           "lyric": "-",
           "comment": "",
           "pitch": 62
         },
         {
-          "onset": 157172400000,
+          "onset": 158186700000,
           "duration": 882000000,
           "lyric": "yuan",
           "comment": "园",
           "pitch": 62
         },
         {
-          "onset": 158054400000,
+          "onset": 159068700000,
           "duration": 1146600000,
           "lyric": "fei",
           "comment": "飞",
           "pitch": 67
         },
         {
-          "onset": 159201000000,
+          "onset": 160215300000,
           "duration": 882000000,
           "lyric": "xiang",
           "comment": "向",
           "pitch": 60
         },
         {
-          "onset": 160083000000,
+          "onset": 161097300000,
           "duration": 705600000,
           "lyric": "shui",
           "comment": "谁",
           "pitch": 60
         },
         {
-          "onset": 160788600000,
+          "onset": 161802900000,
           "duration": 705600000,
           "lyric": "-",
           "comment": "",
           "pitch": 62
         },
         {
-          "onset": 161494200000,
+          "onset": 162508500000,
           "duration": 176400000,
           "lyric": "bian",
           "comment": "边",
           "pitch": 60
         },
         {
-          "onset": 161670600000,
+          "onset": 162684900000,
           "duration": 7232400000,
           "lyric": "-",
           "comment": "",
           "pitch": 62
         },
         {
-          "onset": 183456000000,
+          "onset": 184470300000,
           "duration": 4410000000,
           "lyric": "hei",
           "comment": "嘿",
           "pitch": 62
         },
         {
-          "onset": 187866000000,
+          "onset": 188880300000,
           "duration": 441000000,
           "lyric": "-",
           "comment": "",
           "pitch": 57
         },
         {
-          "onset": 188307000000,
+          "onset": 189321300000,
           "duration": 1234800000,
           "lyric": "liu",
           "comment": "流",
           "pitch": 57
         },
         {
-          "onset": 189541800000,
+          "onset": 190556100000,
           "duration": 3704400000,
           "lyric": "lang",
           "comment": "浪",
           "pitch": 64
         },
         {
-          "onset": 193951800000,
+          "onset": 195054300000,
           "duration": 705600000,
           "lyric": "lan",
           "comment": "蓝",
           "pitch": 57
         },
         {
-          "onset": 194657400000,
+          "onset": 195759900000,
           "duration": 4233600000,
           "lyric": "tian",
           "comment": "天",
           "pitch": 65
         },
         {
-          "onset": 200390400000,
+          "onset": 201404700000,
           "duration": 970200000,
           "lyric": "dai",
           "comment": "带",
           "pitch": 65
         },
         {
-          "onset": 201360600000,
+          "onset": 202374900000,
           "duration": 441000000,
           "lyric": "zhe",
           "comment": "着",
           "pitch": 64
         },
         {
-          "onset": 201801600000,
+          "onset": 202815900000,
           "duration": 705600000,
           "lyric": "jia",
           "comment": "家",
           "pitch": 64
         },
         {
-          "onset": 202507200000,
+          "onset": 203521500000,
           "duration": 617400000,
           "lyric": "yuan",
           "comment": "园",
           "pitch": 62
         },
         {
-          "onset": 203124600000,
+          "onset": 204138900000,
           "duration": 793800000,
           "lyric": "liu",
           "comment": "流",
           "pitch": 67
         },
         {
-          "onset": 203918400000,
+          "onset": 204932700000,
           "duration": 352800000,
           "lyric": "-",
           "comment": "",
           "pitch": 60
         },
         {
-          "onset": 204271200000,
+          "onset": 205285500000,
           "duration": 4586400000,
           "lyric": "lang",
           "comment": "浪",
           "pitch": 60
         },
         {
-          "onset": 210180600000,
+          "onset": 211194900000,
           "duration": 705600000,
           "lyric": "lan",
           "comment": "蓝",
           "pitch": 60
         },
         {
-          "onset": 210886200000,
+          "onset": 211900500000,
           "duration": 705600000,
           "lyric": "-",
           "comment": "",
           "pitch": 62
         },
         {
-          "onset": 211591800000,
+          "onset": 212606100000,
           "duration": 176400000,
           "lyric": "tian",
           "comment": "天",
           "pitch": 60
         },
         {
-          "onset": 211768200000,
+          "onset": 212782500000,
           "duration": 42247800000,
           "lyric": "-",
           "comment": "",
           "pitch": 62
         },
         {
-          "onset": 304731000000,
+          "onset": 305745300000,
           "duration": 705600000,
           "lyric": "ji",
           "comment": "记",
           "pitch": 54
         },
         {
-          "onset": 305436600000,
+          "onset": 306450900000,
           "duration": 705600000,
           "lyric": "de",
           "comment": "得",
           "pitch": 52
         },
         {
-          "onset": 306142200000,
+          "onset": 307156500000,
           "duration": 2116800000,
           "lyric": "-",
           "comment": "",
           "pitch": 50
         },
         {
-          "onset": 309758400000,
+          "onset": 310772700000,
           "duration": 396900000,
           "lyric": "wo",
           "comment": "我",
           "pitch": 50
         },
         {
-          "onset": 310155300000,
-          "duration": 485100000,
+          "onset": 311169600000,
+          "duration": 396900000,
           "lyric": "men",
           "comment": "们",
           "pitch": 50
         },
         {
-          "onset": 310728600000,
-          "duration": 441000000,
+          "onset": 311831100000,
+          "duration": 352800000,
           "lyric": "yi",
           "comment": "一",
           "pitch": 57
         },
         {
-          "onset": 311169600000,
+          "onset": 312183900000,
           "duration": 176400000,
           "lyric": "-",
           "comment": "",
           "pitch": 55
         },
         {
-          "onset": 311346000000,
+          "onset": 312360300000,
           "duration": 617400000,
           "lyric": "qi",
           "comment": "起",
           "pitch": 55
         },
         {
-          "onset": 311963400000,
+          "onset": 312977700000,
           "duration": 617400000,
           "lyric": "zuo",
           "comment": "坐",
           "pitch": 55
         },
         {
-          "onset": 312580800000,
+          "onset": 313595100000,
           "duration": 617400000,
           "lyric": "zai",
           "comment": "在",
           "pitch": 53
         },
         {
-          "onset": 313198200000,
-          "duration": 1146600000,
+          "onset": 314212500000,
+          "duration": 1014300000,
           "lyric": "hai",
           "comment": "海",
           "pitch": 53
         },
         {
-          "onset": 314344800000,
+          "onset": 315226800000,
           "duration": 1058400000,
           "lyric": "bian",
           "comment": "边",
           "pitch": 55
         },
         {
-          "onset": 315844200000,
+          "onset": 316858500000,
           "duration": 705600000,
           "lyric": "kan",
           "comment": "看",
           "pitch": 50
         },
         {
-          "onset": 316549800000,
+          "onset": 317564100000,
           "duration": 2998800000,
           "lyric": "tian",
           "comment": "天",
           "pitch": 52
         },
         {
-          "onset": 321224400000,
+          "onset": 322238700000,
           "duration": 529200000,
           "lyric": "hao",
           "comment": "好",
           "pitch": 50
         },
         {
-          "onset": 321753600000,
+          "onset": 322767900000,
           "duration": 1058400000,
           "lyric": "xiang",
           "comment": "像",
           "pitch": 55
         },
         {
-          "onset": 322812000000,
+          "onset": 323826300000,
           "duration": 352800000,
           "lyric": "yi",
           "comment": "已",
           "pitch": 53
         },
         {
-          "onset": 323164800000,
+          "onset": 324179100000,
           "duration": 352800000,
           "lyric": "guo",
           "comment": "过",
           "pitch": 53
         },
         {
-          "onset": 323517600000,
+          "onset": 324531900000,
           "duration": 352800000,
           "lyric": "-",
           "comment": "",
           "pitch": 52
         },
         {
-          "onset": 323870400000,
+          "onset": 324884700000,
           "duration": 705600000,
           "lyric": "le",
           "comment": "了",
           "pitch": 52
         },
         {
-          "onset": 324576000000,
-          "duration": 705600000,
+          "onset": 325590300000,
+          "duration": 793800000,
           "lyric": "qian",
           "comment": "千",
           "pitch": 52
         },
         {
-          "onset": 325281600000,
-          "duration": 1058400000,
+          "onset": 326384100000,
+          "duration": 970200000,
           "lyric": "nian",
           "comment": "年",
           "pitch": 50
         },
         {
-          "onset": 326340000000,
+          "onset": 327354300000,
           "duration": 352800000,
           "lyric": "-",
           "comment": "",
           "pitch": 48
         },
         {
-          "onset": 326692800000,
+          "onset": 327707100000,
           "duration": 352800000,
           "lyric": "wan",
           "comment": "万",
           "pitch": 48
         },
         {
-          "onset": 327045600000,
+          "onset": 328059900000,
           "duration": 793800000,
           "lyric": "-",
           "comment": "",
           "pitch": 45
         },
         {
-          "onset": 327839400000,
+          "onset": 328853700000,
           "duration": 1764000000,
           "lyric": "nian",
           "comment": "年",
           "pitch": 45
         },
         {
-          "onset": 332646300000,
+          "onset": 333660600000,
           "duration": 396900000,
           "lyric": "na",
           "comment": "那",
           "pitch": 50
         },
         {
-          "onset": 333043200000,
+          "onset": 334057500000,
           "duration": 926100000,
           "lyric": "tian",
           "comment": "天",
           "pitch": 57
         },
         {
-          "onset": 333969300000,
+          "onset": 334983600000,
           "duration": 485100000,
           "lyric": "de",
           "comment": "的",
           "pitch": 55
         },
         {
-          "onset": 334454400000,
+          "onset": 335468700000,
           "duration": 705600000,
           "lyric": "da",
           "comment": "大",
           "pitch": 55
         },
         {
-          "onset": 335160000000,
+          "onset": 336174300000,
           "duration": 705600000,
           "lyric": "hai",
           "comment": "海",
           "pitch": 53
         },
         {
-          "onset": 335865600000,
+          "onset": 336879900000,
           "duration": 1058400000,
           "lyric": "tian",
           "comment": "天",
           "pitch": 53
         },
         {
-          "onset": 336924000000,
+          "onset": 337938300000,
           "duration": 705600000,
           "lyric": "yi",
           "comment": "一",
           "pitch": 52
         },
         {
-          "onset": 337629600000,
+          "onset": 338643900000,
           "duration": 529200000,
           "lyric": "-",
           "comment": "",
           "pitch": 50
         },
         {
-          "onset": 338158800000,
-          "duration": 882000000,
+          "onset": 339173100000,
+          "duration": 793800000,
           "lyric": "yang",
           "comment": "样",
           "pitch": 50
         },
         {
-          "onset": 339040800000,
-          "duration": 176400000,
+          "onset": 339966900000,
+          "duration": 264600000,
           "lyric": "蓝",
           "comment": "lan",
           "pitch": 50
         },
         {
-          "onset": 339217200000,
+          "onset": 340231500000,
           "duration": 2116800000,
           "lyric": "-",
           "comment": "蓝",
           "pitch": 55
         },
         {
-          "onset": 343891800000,
+          "onset": 344906100000,
           "duration": 441000000,
           "lyric": "wo",
           "comment": "我",
           "pitch": 50
         },
         {
-          "onset": 344332800000,
+          "onset": 345347100000,
           "duration": 970200000,
           "lyric": "men",
           "comment": "们",
           "pitch": 57
         },
         {
-          "onset": 345303000000,
+          "onset": 346317300000,
           "duration": 352800000,
           "lyric": "de",
           "comment": "的",
           "pitch": 55
         },
         {
-          "onset": 345655800000,
+          "onset": 346670100000,
           "duration": 705600000,
           "lyric": "di",
           "comment": "地",
           "pitch": 55
         },
         {
-          "onset": 346361400000,
+          "onset": 347375700000,
           "duration": 705600000,
           "lyric": "qiu",
           "comment": "球",
           "pitch": 57
         },
         {
-          "onset": 347067000000,
+          "onset": 348081300000,
           "duration": 617400000,
           "lyric": "yang",
           "comment": "阳",
           "pitch": 60
         },
         {
-          "onset": 347684400000,
+          "onset": 348698700000,
           "duration": 441000000,
           "lyric": "-",
           "comment": "",
           "pitch": 57
         },
         {
-          "onset": 348125400000,
+          "onset": 349139700000,
           "duration": 1058400000,
           "lyric": "guang",
           "comment": "光",
           "pitch": 57
         },
         {
-          "onset": 349183800000,
+          "onset": 350198100000,
           "duration": 1411200000,
           "lyric": "can",
           "comment": "灿",
           "pitch": 57
         },
         {
-          "onset": 350595000000,
+          "onset": 351609300000,
           "duration": 9966600000,
           "lyric": "lan",
           "comment": "烂",
           "pitch": 62
         },
         {
-          "onset": 373879800000,
+          "onset": 374894100000,
           "duration": 705600000,
           "lyric": "ye",
           "comment": "耶",
           "pitch": 62
         },
         {
-          "onset": 374585400000,
+          "onset": 375599700000,
           "duration": 352800000,
           "lyric": "-",
           "comment": "yeah",
           "pitch": 60
         },
         {
-          "onset": 374938200000,
+          "onset": 375952500000,
           "duration": 352800000,
           "lyric": "-",
           "comment": "yeah",
           "pitch": 57
         },
         {
-          "onset": 375291000000,
+          "onset": 376305300000,
           "duration": 1764000000,
           "lyric": "yei",
           "comment": "耶",
           "pitch": 62
         },
         {
-          "onset": 378113400000,
+          "onset": 379127700000,
           "duration": 396900000,
           "lyric": "da",
           "comment": "",
           "pitch": 64
         },
         {
-          "onset": 378510300000,
+          "onset": 379524600000,
           "duration": 573300000,
           "lyric": "da",
           "comment": "",
           "pitch": 64
         },
         {
-          "onset": 379083600000,
+          "onset": 380097900000,
           "duration": 264600000,
           "lyric": "da",
           "comment": "",
           "pitch": 62
         },
         {
-          "onset": 379348200000,
+          "onset": 380362500000,
           "duration": 352800000,
           "lyric": "da",
           "comment": "",
           "pitch": 60
         },
         {
-          "onset": 379701000000,
+          "onset": 380715300000,
           "duration": 529200000,
           "lyric": "da",
           "comment": "",
           "pitch": 64
         },
         {
-          "onset": 380230200000,
+          "onset": 381244500000,
           "duration": 352800000,
           "lyric": "dei",
           "comment": "",
           "pitch": 67
         },
         {
-          "onset": 380583000000,
+          "onset": 381597300000,
           "duration": 617400000,
           "lyric": "da",
           "comment": "",
           "pitch": 64
         },
         {
-          "onset": 381200400000,
+          "onset": 382214700000,
           "duration": 264600000,
           "lyric": "-",
           "comment": "",
           "pitch": 62
         },
         {
-          "onset": 381465000000,
+          "onset": 382479300000,
           "duration": 529200000,
           "lyric": "-",
           "comment": "",
           "pitch": 60
         },
         {
-          "onset": 383670000000,
-          "duration": 705600000,
+          "onset": 384772500000,
+          "duration": 617400000,
           "lyric": "lei",
           "comment": "",
           "pitch": 65
         },
         {
-          "onset": 384375600000,
+          "onset": 385389900000,
           "duration": 352800000,
           "lyric": "a",
           "comment": "",
           "pitch": 62
         },
         {
-          "onset": 384728400000,
+          "onset": 385742700000,
           "duration": 793800000,
           "lyric": "lei",
           "comment": "",
           "pitch": 65
         },
         {
-          "onset": 385522200000,
+          "onset": 386536500000,
           "duration": 308700000,
           "lyric": "a",
           "comment": "",
           "pitch": 62
         },
         {
-          "onset": 385830900000,
+          "onset": 386845200000,
           "duration": 705600000,
           "lyric": "lei",
           "comment": "",
           "pitch": 65
         },
         {
-          "onset": 386536500000,
+          "onset": 387550800000,
           "duration": 352800000,
           "lyric": "a",
           "comment": "",
           "pitch": 62
         },
         {
-          "onset": 386889300000,
-          "duration": 837900000,
+          "onset": 387903600000,
+          "duration": 793800000,
           "lyric": "lei",
           "comment": "",
           "pitch": 65
         },
         {
-          "onset": 387727200000,
+          "onset": 388697400000,
+          "duration": 132300000,
+          "lyric": "-",
+          "comment": "",
+          "pitch": 62
+        },
+        {
+          "onset": 388829700000,
           "duration": 352800000,
           "lyric": "a",
           "comment": "",
           "pitch": 62
         },
         {
-          "onset": 388080000000,
+          "onset": 389182500000,
           "duration": 705600000,
           "lyric": "lei",
           "comment": "",
           "pitch": 65
         },
         {
-          "onset": 389491200000,
+          "onset": 390505500000,
           "duration": 705600000,
           "lyric": "dai",
           "comment": "带",
           "pitch": 65
         },
         {
-          "onset": 390196800000,
+          "onset": 391211100000,
           "duration": 220500000,
           "lyric": "-",
           "comment": "",
           "pitch": 64
         },
         {
-          "onset": 390417300000,
+          "onset": 391431600000,
           "duration": 308700000,
           "lyric": "zhe",
           "comment": "着",
           "pitch": 64
         },
         {
-          "onset": 390726000000,
+          "onset": 391740300000,
           "duration": 705600000,
           "lyric": "jia",
           "comment": "家",
           "pitch": 64
         },
         {
-          "onset": 391431600000,
+          "onset": 392445900000,
           "duration": 705600000,
           "lyric": "yuan",
           "comment": "园",
           "pitch": 62
         },
         {
-          "onset": 392137200000,
+          "onset": 393151500000,
           "duration": 1234800000,
           "lyric": "gui",
           "comment": "归",
           "pitch": 67
         },
         {
-          "onset": 393372000000,
+          "onset": 394386300000,
           "duration": 1058400000,
           "lyric": "xiang",
           "comment": "向",
           "pitch": 60
         },
         {
-          "onset": 394430400000,
+          "onset": 395444700000,
           "duration": 396900000,
           "lyric": "lan",
           "comment": "蓝",
           "pitch": 60
         },
         {
-          "onset": 394827300000,
+          "onset": 395841600000,
           "duration": 1014300000,
           "lyric": "-",
           "comment": "",
           "pitch": 62
         },
         {
-          "onset": 395841600000,
+          "onset": 396855900000,
           "duration": 176400000,
           "lyric": "tian",
           "comment": "天",
           "pitch": 60
         },
         {
-          "onset": 396018000000,
+          "onset": 397032300000,
           "duration": 10407600000,
           "lyric": "-",
           "comment": "",
           "pitch": 62
         },
         {
-          "onset": 411276600000,
+          "onset": 412290900000,
           "duration": 705600000,
           "lyric": "lan",
           "comment": "蓝",
           "pitch": 60
         },
         {
-          "onset": 411982200000,
+          "onset": 412996500000,
           "duration": 705600000,
           "lyric": "-",
           "comment": "",
           "pitch": 62
         },
         {
-          "onset": 412687800000,
+          "onset": 413702100000,
           "duration": 176400000,
           "lyric": "tian",
           "comment": "天",
           "pitch": 60
         },
         {
-          "onset": 412864200000,
+          "onset": 413878500000,
           "duration": 4851000000,
           "lyric": "-",
           "comment": "",
           "pitch": 62
         },
         {
-          "onset": 445939200000,
+          "onset": 446953500000,
           "duration": 1411200000,
           "lyric": "ri",
           "comment": "日",
           "pitch": 54
         },
         {
-          "onset": 447350400000,
+          "onset": 448364700000,
           "duration": 705600000,
           "lyric": "yue",
           "comment": "月",
           "pitch": 54
         },
         {
-          "onset": 448056000000,
+          "onset": 449070300000,
           "duration": 705600000,
           "lyric": "zhi",
           "comment": "之",
           "pitch": 52
         },
         {
-          "onset": 448761600000,
+          "onset": 449775900000,
           "duration": 1764000000,
           "lyric": "xing",
           "comment": "行",
           "pitch": 50
         },
         {
-          "onset": 451584000000,
+          "onset": 452598300000,
           "duration": 1411200000,
           "lyric": "ruo",
           "comment": "若",
           "pitch": 60
         },
         {
-          "onset": 452995200000,
+          "onset": 454009500000,
           "duration": 705600000,
           "lyric": "chu",
           "comment": "出",
           "pitch": 57
         },
         {
-          "onset": 453700800000,
+          "onset": 454715100000,
           "duration": 705600000,
           "lyric": "qi",
           "comment": "其",
           "pitch": 55
         },
         {
-          "onset": 454406400000,
+          "onset": 455420700000,
           "duration": 1764000000,
           "lyric": "zhong",
           "comment": "中",
           "pitch": 57
         },
         {
-          "onset": 457228800000,
+          "onset": 458243100000,
           "duration": 1411200000,
           "lyric": "xing",
           "comment": "星",
           "pitch": 57
         },
         {
-          "onset": 458640000000,
+          "onset": 459654300000,
           "duration": 705600000,
           "lyric": "han",
           "comment": "汉",
           "pitch": 55
         },
         {
-          "onset": 459345600000,
+          "onset": 460359900000,
           "duration": 705600000,
           "lyric": "can",
           "comment": "灿",
           "pitch": 53
         },
         {
-          "onset": 460051200000,
+          "onset": 461065500000,
           "duration": 3175200000,
           "lyric": "lan",
           "comment": "烂",
           "pitch": 55
         },
         {
-          "onset": 465343200000,
+          "onset": 466357500000,
           "duration": 1058400000,
           "lyric": "ruo",
           "comment": "若",
           "pitch": 55
         },
         {
-          "onset": 466401600000,
+          "onset": 467415900000,
           "duration": 1411200000,
           "lyric": "chu",
           "comment": "出",
           "pitch": 57
         },
         {
-          "onset": 467812800000,
+          "onset": 468827100000,
           "duration": 1058400000,
           "lyric": "qi",
           "comment": "其",
           "pitch": 54
         },
         {
-          "onset": 468871200000,
+          "onset": 469885500000,
           "duration": 7408800000,
           "lyric": "li",
           "comment": "里",
@@ -2214,11 +2242,11 @@
     }
   ],
   "instrumental": {
-    "filename": "external/带着地球去流浪.wav",
+    "filename": "external/《流浪地球》带着地球去流浪纯音乐版-42351514.wav",
     "offset": 1.462
   },
   "mixer": {
-    "gainInstrumentalDecibel": -12,
+    "gainInstrumentalDecibel": 0,
     "gainVocalMasterDecibel": 0,
     "instrumentalMuted": false,
     "vocalMasterMuted": false
