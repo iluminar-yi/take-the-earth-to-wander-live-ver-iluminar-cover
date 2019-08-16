@@ -20,37 +20,7 @@
     "tracks": [
       {
         "track": 0,
-        "values": [
-          {
-            "enabled": false,
-            "param": "gender",
-            "value": -0.1,
-            "method": "overwrite"
-          },
-          {
-            "enabled": false,
-            "param": "tension",
-            "value": -0.15,
-            "method": "overwrite"
-          },
-          {
-            "enabled": false,
-            "param": "voicing",
-            "value": -0.2,
-            "method": "overwrite"
-          },
-          {
-            "enabled": false,
-            "param": "breathiness",
-            "value": 0.2,
-            "method": "overwrite"
-          },
-          {
-            "enabled": false,
-            "param": "sublib",
-            "value": "B3"
-          }
-        ]
+        "values": []
       },
       {
         "track": 1,
@@ -70,7 +40,7 @@
           {
             "enabled": true,
             "param": "voicing",
-            "value": 0,
+            "value": -0.25,
             "method": "shift"
           },
           {
